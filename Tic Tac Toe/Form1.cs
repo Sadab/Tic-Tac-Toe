@@ -204,8 +204,8 @@ namespace Tic_Tac_Toe
         }
         public void draw()
         {
-                playerLbl.Text = "Match";
-                wonLbl.Text = "Draw";
+            playerLbl.Text = "Match";
+            wonLbl.Text = "Draw";
         }
     }
 }
